@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0, 2021-09-20)"
+   sodipodi:docname="Reto_2.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="true"
+     inkscape:snap-bbox="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="false"
+     inkscape:snap-object-midpoints="true"
+     inkscape:bbox-paths="true"
+     inkscape:zoom="0.67024358"
+     inkscape:cx="393.14065"
+     inkscape:cy="129.80356"
+     inkscape:window-width="1082"
+     inkscape:window-height="1043"
+     inkscape:window-x="2204"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="50.458923,225.05549"
+       orientation="0,-1"
+       id="guide1911" />
+    <sodipodi:guide
+       position="50.422823,190.68901"
+       orientation="0,-1"
+       id="guide1913" />
+    <sodipodi:guide
+       position="50.458923,207.96298"
+       orientation="1,0"
+       id="guide1915" />
+    <sodipodi:guide
+       position="50.458922,207.96299"
+       orientation="0,-1"
+       id="guide1936" />
+    <sodipodi:guide
+       position="142.0384,207.963"
+       orientation="1,0"
+       id="guide2143" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path1101"
+       style="fill:#00ffff;stroke:#000000;stroke-width:4.70117"
+       d="M 190.71094 271.23047 A 68.516061 65.287573 0 0 0 122.19531 336.51758 A 68.516061 65.287573 0 0 0 190.71094 401.80469 L 536.83789 401.80469 L 536.83789 401.67383 A 68.516062 65.155825 0 0 0 605.35352 336.51758 A 68.516062 65.155825 0 0 0 536.83789 271.36133 A 68.516062 65.155825 0 0 0 528.25195 271.91602 L 200.58594 271.91602 A 68.516061 65.287573 0 0 0 190.71094 271.23047 z "
+       transform="scale(0.26458333)" />
+    <ellipse
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.065"
+       id="path2907"
+       cx="50.458923"
+       cy="89.037003"
+       rx="6.1396003"
+       ry="6.445641" />
+    <ellipse
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.065"
+       id="path2907-6"
+       cx="142.03841"
+       cy="89.03701"
+       rx="6.1396003"
+       ry="6.445641" />
+  </g>
+</svg>
